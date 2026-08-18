@@ -1,10 +1,13 @@
 torch
 transformers
+accelerate
+sentencepiece
+torchmetrics
 numpy
 pandas
 scikit-learn
 scipy
 matplotlib
+seaborn
 tqdm
 pyyaml
-
