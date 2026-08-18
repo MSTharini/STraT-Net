@@ -1,1 +1,25 @@
+cff-version: 1.2.0
+message: "If you use STraT-Net or STraT-Bench in your research, please cite this software and the associated publication."
 
+title: "STraT-Net: Symptom Trajectory Transformer Network"
+type: software
+
+authors:
+  - family-names: "Tharini"
+    given-names: "M. S."
+
+  - family-names: "Jeyaraj"
+    given-names: "Jane Rubel Angelina"
+
+repository-code: "https://github.com/MSTharini/STraT-Net"
+
+license: MIT
+
+keywords:
+  - neurodegenerative disease
+  - longitudinal clinical narratives
+  - symptom trajectory modelling
+  - temporal transformer
+  - clinical natural language processing
+  - explainable artificial intelligence
+  - clinical decision support
