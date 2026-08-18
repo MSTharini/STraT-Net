@@ -1,1 +1,10 @@
-
+torch
+transformers
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+tqdm
+pyyaml
+Add Python dependencies
